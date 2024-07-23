@@ -15,8 +15,9 @@
 
 <text 
     transform="translate(120,994)"     
-    fill= "#413e66"
+    fill= "#1bb1dc"
     font-stretch= "ultra-expanded"
-    font-size= "142px"
-    font-family= "monospace">technologies</text>
+    font-size= "9.6rem"
+    font-weight="800"
+    font-family= "monospace">global tech</text>
 </svg>
